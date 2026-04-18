@@ -3,3 +3,6 @@ Hello , this is second developer
 class register:
     def register():
      ......
+
+def test():
+.........
