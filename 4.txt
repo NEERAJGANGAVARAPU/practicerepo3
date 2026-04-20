@@ -1,0 +1,4 @@
+User story-2:-
+
+def story2():
+  print("This is story-2 Method")
