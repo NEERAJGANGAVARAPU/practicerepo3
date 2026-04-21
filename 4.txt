@@ -11,7 +11,13 @@ def story1():
 .....................
 >>>>>>> Stashed changes
 
+<<<<<<< Updated upstream
 
 user story-4
 
 def story4():
+=======
+user story3
+
+def story3()
+>>>>>>> Stashed changes
