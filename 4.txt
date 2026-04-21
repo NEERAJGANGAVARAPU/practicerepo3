@@ -1,5 +1,12 @@
+<<<<<<< Updated upstream
 user story-2 
 
 def story2():
 
 .........................
+=======
+user story1
+
+def story1():
+.....................
+>>>>>>> Stashed changes
